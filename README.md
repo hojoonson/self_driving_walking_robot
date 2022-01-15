@@ -10,11 +10,11 @@ Reference
 ---
 https://github.com/hamuchiwa/AutoRCCar
 
-V-rep Simulation Video
+V-rep Simulation
 ---
 ![Simulation Video](V-rep_simulation_video.gif)
 
-Contest Video 
+Contest 
 ---
 2018-Video : <br>
 https://www.youtube.com/watch?v=WI1AsNgTEiM&t=1465s <br>
