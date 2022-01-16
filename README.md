@@ -5,7 +5,7 @@ The first version of autonomous walking robot project.
 Additional Codes : https://github.com/kbdlab/walking_robot
 
 This project is the first version of <Creative Design 2> 2018 lecture in Yonsei University, South Korea.<br>
-Woojin Jo and Hojoon Son are contributed as TA and they made the whole concept for this project.
+Woojin Jo and Hojoon Son were contributed as TA and they made the whole concept for this project.
 
 Reference
 ---
